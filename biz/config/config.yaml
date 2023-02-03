@@ -1,0 +1,10 @@
+#server
+server:
+ port: :2345
+ AppMode: debug
+database:
+ user: root
+ passwd: root
+ host: localhost
+ port: 3306
+ name: tiktok
